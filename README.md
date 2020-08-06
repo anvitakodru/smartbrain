@@ -1,2 +1,2 @@
-# Samrt Brain
+# Smart Brain
 `ongoing project`
