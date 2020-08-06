@@ -1,2 +1,2 @@
-# smartbrain
-Image Recognition App
+# Samrt Brain
+`ongoing project`
